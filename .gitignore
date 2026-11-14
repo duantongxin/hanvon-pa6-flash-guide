@@ -1,0 +1,8 @@
+# 忽略
+*.log
+*.img
+*.zip
+*.apk
+fw/
+rt/
+__pycache__/
